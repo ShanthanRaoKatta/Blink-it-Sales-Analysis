@@ -47,4 +47,4 @@ Helps identify top-selling categories and high-performing outlets
 Supports strategic decision-making for marketing, product placement, and supply chain management
 
 4. Screenshot
-This is the current design
+This is the current design ( https://github.com/ShanthanRaoKatta/Blink-it-Sales-Analysis/blob/main/Blink%20it%20sales.png )
