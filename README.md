@@ -12,11 +12,15 @@ also enables trend analysis—showing how performance changes over time—and hi
 a practical tool for performance monitoring, strategic planning, and continuous process improvement within Blinkit’s retail ecosystem.
 
 Tech Stack:
-Power BI – for interactive data visualization and dashboard development
-Excel / CSV – as primary data sources for import
-Power Query – for ETL (Extract, Transform, Load) and data cleaning
-DAX (Data Analysis Expressions) – for KPI computation
-SQL (optional) – for backend data management and queries
+Power BI - for interactive data visualization and dashboard development
+
+Excel / CSV - as primary data sources for import
+
+Power Query - for ETL (Extract, Transform, Load) and data cleaning
+
+DAX (Data Analysis Expressions) - for KPI computation
+
+SQL (optional) - for backend data management and queries
 
 Key KPIs 💡
 💰 Total Sales – overall revenue
